@@ -29,7 +29,7 @@ public class AirTransportation extends Transport{
 
     @Override
     public String getTransportType(){
-        return "Transporte Aéreo";
+        return "Transporte Aereo";
     }
 
     @Override
